@@ -8,13 +8,13 @@ Essentially, clone the repository, create a new branch called `progress` or any 
 
 1. Fork the repo on GitHub and clone your fork, replacing `yourusername` with your GitHub username
 
-    `git clone https://github.com/yourusername/backend-developer-skills.git`
+    `git clone https://github.com/yourusername/developer-skills.git`
 
 2. Checkout a new branch, add this repo as a remote and get any updates.
 
     ``` git checkout -b progress
 
-        git remote add leni1 https://github.com/leni1/backend-developer-skills
+        git remote add leni1 https://github.com/leni1/developer-skills
 
         git fetch all
      ```
@@ -33,4 +33,4 @@ Essentially, clone the repository, create a new branch called `progress` or any 
 
 ## How to contribute
 
-I'd like to add good resources to get started with the various technologies on this list. Will add them as time goes on, but feel free to open an issue suggesting a resource or a pull request and I'll be happy to review and merge.
+I'd like to add good resources to get started with the various technologies on the lists contained in the various `*.md` files. Will add them as time goes on, but feel free to open an issue suggesting a resource or a pull request and I'll be happy to review and merge.
