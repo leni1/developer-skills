@@ -306,3 +306,5 @@
     - [ ] Domain Driven Design (DDD)
 
         - [ ] [Domain Driven Design Resources for Python](https://github.com/valignatev/ddd-dynamic) Has some Ruby as well.
+
+        - [ ] ETL
