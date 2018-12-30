@@ -2,27 +2,27 @@
 
 - [ ] Python
 
-    - [ ] Django
+    - [x] Django
 
-        - [ ] (Official Django tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
+        - [x] (Official Django tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 
-        - [ ] [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+        - [x] [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
     - [ ] Flask
 
-        - [ ] [Official Flask Tutorial](http://flask.pocoo.org/docs/1.0/tutorial/)
+        - [x] [Official Flask Tutorial](http://flask.pocoo.org/docs/1.0/tutorial/)
 
         - May be overkill but I would recommend going through the [Quickstart docs](http://flask.pocoo.org/docs/1.0/quickstart/) as well
 
-        - [ ] [Miguel Grinberg's tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+        - [x] [Miguel Grinberg's tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
     - [ ] Scrapy
 
     - [ ] Miscellaneous
 
-        - [ ] pip
+        - [x] pip
 
-        - [ ] pdb (debugging in general)
+        - [x] pdb (debugging in general)
 
     - [ ] Testing
 
