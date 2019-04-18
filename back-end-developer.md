@@ -26,14 +26,14 @@
 
     - [ ] Testing
 
-        - [ ] Types of testing
+        - [x] Types of testing
 
-            - [ ] Unit tests
+            - [x] Unit tests
 
-            - [ ] Integration tests
+            - [x] Integration tests
 
         - [ ] Tools
-            - [ ] pytest
+            - [x] pytest
 
             - [ ] tox
 
