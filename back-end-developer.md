@@ -18,13 +18,13 @@
 
     - [ ] Scrapy
 
-    - [ ] Miscellaneous
+    - [x] Miscellaneous
 
         - [x] pip
 
         - [x] pdb (debugging in general)
 
-    - [ ] Testing
+    - [x] Testing
 
         - [x] Types of testing
 
