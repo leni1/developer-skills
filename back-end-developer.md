@@ -54,6 +54,10 @@
         - [ ] Cassandra
 
         - [ ] Couchbase
+    
+    - [ ] General Database Administration
+    
+        - [ ] Database Architecture (Design, Structure etc)
 
 - [ ] App level Caching
 
