@@ -136,6 +136,8 @@
         - [ ] S3
 
         - [ ] DynamoDB
+        
+        - [ ] Aurora
 
    - [ ] Google Cloud Platform
 
