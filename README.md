@@ -2,9 +2,11 @@
 
 This repository tracks my development of Developer skills in general. The front-end developer skill track is in `front-end-developer.md` and `back-end-developer.md` contains the back-end skill track as well as DevOps as per what I've seen on job listings. The back-end section is Python-oriented as well as containing DevOps-specific content for the time being. Will add more to this as time goes on. The checklist style is borrowed from jwsham's coding university repo [here](https://github.com/jwasham/coding-interview-university) and the list as well as the order of things to learn is mostly derived from Kamran's developer roadmap [here](https://github.com/kamranahmedse/developer-roadmap)
 
+Interpersonal skills is just for referencing from time to time :sweat_smile:
+
 ## How to use it
 
-Essentially, clone the repository, create a new branch called `progress` or any name that is along those lines, and then check the items you've learned by putting an `x` in the brackets like so `[x]`. The commands are as follows:
+Clone the repository, create a new branch called `progress` or any name that is along those lines, and then check the items you've learned by putting an `x` in the brackets like so `[x]`. The commands are as follows:
 
 1. Fork the repo on GitHub and clone your fork, replacing `yourusername` with your GitHub username
 
