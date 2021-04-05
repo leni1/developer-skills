@@ -8,7 +8,7 @@
 
         - [x] [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
-    - [ ] Flask
+    - [x] Flask
 
         - [x] [Official Flask Tutorial](http://flask.pocoo.org/docs/1.0/tutorial/)
 
@@ -251,7 +251,7 @@
 
     - [ ] Scrum
 
-    - [ ] Agile
+    - [x] Agile
 
 - [ ] Deep dive into Operating Systems
 
