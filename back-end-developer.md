@@ -37,7 +37,7 @@
 
             - [ ] tox
 
-            - [ ] Mock
+            - [x] Mock
 
 - [ ] Databases
 
