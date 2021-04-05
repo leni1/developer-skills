@@ -243,9 +243,9 @@
 
     - [ ] Terraform
 
-- [ ] Version Control and associated systems
+- [x] Version Control and associated systems
 
-    - [ ] Git, GitHub, GitLab, Bitbucket
+    - [x] Git, GitHub, GitLab, Bitbucket
 
 - [ ] Project Management:
 
